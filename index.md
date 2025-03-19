@@ -1,3 +1,5 @@
-## Alex Shumihin
-
-- About me
+---
+layout: home
+title: "Привет!"
+subtitle: "Добро пожаловать на мой сайт"
+---
